@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+ecdsa_data/
+*.prv
+*.pub
+*.sig
+*.txt
